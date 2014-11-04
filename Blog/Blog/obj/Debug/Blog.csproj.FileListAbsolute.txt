@@ -1,0 +1,6 @@
+c:\users\caroline\documents\visual studio 2013\Projects\Blog\Blog\bin\Debug\Blog.exe.config
+c:\users\caroline\documents\visual studio 2013\Projects\Blog\Blog\bin\Debug\Blog.exe
+c:\users\caroline\documents\visual studio 2013\Projects\Blog\Blog\bin\Debug\Blog.pdb
+c:\users\caroline\documents\visual studio 2013\Projects\Blog\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+c:\users\caroline\documents\visual studio 2013\Projects\Blog\Blog\obj\Debug\Blog.exe
+c:\users\caroline\documents\visual studio 2013\Projects\Blog\Blog\obj\Debug\Blog.pdb

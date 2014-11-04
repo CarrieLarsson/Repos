@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfPost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Post>
+    <Author>Ulbe</Author>
+    <Text>Hej! Jag heter Ulbe och är en Friesisk häst och jag ska skriva om mitt liv.</Text>
+    <Created>2014-10-07T14:38:14.5529798+02:00</Created>
+    <Subject>Presentation</Subject>
+    <Updated>0001-01-01T00:00:00</Updated>
+    <Tags>
+      <string>Häst</string>
+      <string>Ulbe</string>
+    </Tags>
+    <Comments />
+  </Post>
+  <Post>
+    <Author>Ulbe</Author>
+    <Text>Idag var jag ute på en ridtur med min matte och då träffade jag en älg. Han heter Hans och är väldigt snäll.</Text>
+    <Created>2014-10-07T14:40:36.8955135+02:00</Created>
+    <Subject>Ridturen</Subject>
+    <Updated>0001-01-01T00:00:00</Updated>
+    <Tags>
+      <string>Hans</string>
+      <string>älg</string>
+      <string>ridtur</string>
+    </Tags>
+    <Comments />
+  </Post>
+  <Post>
+    <Author>Ulbe</Author>
+    <Text>Han kom och besökte mig i hagen idag. Vi lekte hela dagen och det var jätte roligt.Hans är min bästa kompis!</Text>
+    <Created>2014-10-07T14:42:51.3473889+02:00</Created>
+    <Subject>Vänskap</Subject>
+    <Updated>0001-01-01T00:00:00</Updated>
+    <Tags>
+      <string>Kompis</string>
+      <string>hage</string>
+      <string>lek</string>
+    </Tags>
+    <Comments>
+      <Comment>
+        <Author>Hans</Author>
+        <Text>Hej Ulbe!Hur är läget? Jag hade jätte roligt idag.Jag kommer tillbaka imorgon kväll.Vi ses!</Text>
+        <Created>2014-10-07T14:44:53.5957387+02:00</Created>
+      </Comment>
+      <Comment>
+        <Author>Ulbe</Author>
+        <Text>Hej Hans! Jag kan inte vänta. Jag längtar så!</Text>
+        <Created>2014-10-07T14:51:43.3706433+02:00</Created>
+      </Comment>
+    </Comments>
+  </Post>
+</ArrayOfPost>
